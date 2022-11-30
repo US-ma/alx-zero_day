@@ -1,1 +1,1 @@
-Readme editted from github interface
+Readme edited from github interface
